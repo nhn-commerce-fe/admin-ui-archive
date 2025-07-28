@@ -2,6 +2,6 @@
 
 <!-- VERSION_LIST_START -->
 - [1.1.3](@ncds/ui-admin/1.1.3/index.html)
-- [1.0.2](@ncds/ui-admin/1.0.2/index.html) - 7/11/2025, 1:41:17 PM
-- [1.0.1](@ncds/ui-admin/1.0.1/index.html) - 7/9/2025, 5:19:33 PM
+- [1.0.2](@ncds/ui-admin/1.0.2/index.html)
+- [1.0.1](@ncds/ui-admin/1.0.1/index.html)
 <!-- VERSION_LIST_END -->
