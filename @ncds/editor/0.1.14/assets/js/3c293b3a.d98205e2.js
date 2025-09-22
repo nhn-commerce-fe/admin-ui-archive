@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkncds_admin_docs=self.webpackChunkncds_admin_docs||[]).push([[76237],{47928:s=>{s.exports=JSON.parse('{"blogBasePath":"/admin-ui-archive/@ncds/editor/0.1.14/releases/ui-admin","blogTitle":"UI Admin \ub9b4\ub9ac\uc988\ub178\ud2b8","authorsListPath":"/admin-ui-archive/@ncds/editor/0.1.14/releases/ui-admin/authors"}')}}]);
