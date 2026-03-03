@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkncds_admin_docs=self.webpackChunkncds_admin_docs||[]).push([[5425],{20137:e=>{e.exports=JSON.parse('{"title":"Editor \ub9b4\ub9ac\uc988 \ub178\ud2b8","items":[{"title":"v1.0.0","permalink":"/admin-ui-archive/@ncds/editor/0.1.14/releases/editor/release-note-editor-0.1.0","unlisted":false,"date":"2024-01-28T00:00:00.000Z"}]}')}}]);
