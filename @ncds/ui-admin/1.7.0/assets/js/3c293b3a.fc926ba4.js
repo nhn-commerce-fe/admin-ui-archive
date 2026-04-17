@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkncds_admin_docs=globalThis.webpackChunkncds_admin_docs||[]).push([[76237],{47928(a){a.exports=JSON.parse('{"blogBasePath":"/admin-ui-archive/@ncds/ui-admin/1.7.0/releases/ui-admin","blogTitle":"UI Admin \ub9b4\ub9ac\uc988\ub178\ud2b8","authorsListPath":"/admin-ui-archive/@ncds/ui-admin/1.7.0/releases/ui-admin/authors"}')}}]);
